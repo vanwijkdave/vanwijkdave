@@ -1,16 +1,13 @@
-### Hi there 👋
+### Heya 👋
 
-<!--
-**vanwijkdave/vanwijkdave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Whoami?
+Hey! I am a Designer and Software Developer living in the Netherlands 🇳🇱 I'm always busy with something, raning from a website design to some low level hacky iOS stuff. So you can expect a wide range of project on my page!
 
-Here are some ideas to get you started:
+### Where can you contact me?
+I'm availible on all of these platforms down below ⤵️
++ Twitter: [@DaveWijk][https://twitter.com/davewijk]
++ Discord: [#Dave#5934][https://discord.com/]
++ Email: [vanwijkdave@gmail.com][mailto:vanwijkdave@gmail.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![My's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanwijkdave&show_icons=true&theme=tokyonight)
