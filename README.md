@@ -9,5 +9,6 @@ I'm availible on all of these platforms down below ⤵️
 + Discord: [#Dave#5934](https://discord.com/)
 + Email: [vanwijkdave@gmail.com](mailto:vanwijkdave@gmail.com)
 
+Support me on [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E6Y76V)
 
 ![My's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanwijkdave&show_icons=true&theme=tokyonight)
