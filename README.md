@@ -1,9 +1,4 @@
-### Heya 👋
-
-### Whoami?
-Hey! I am a Designer and Software Developer living in the Netherlands 🇳🇱 I'm always busy with something, ranging from designing a website to some low level hacky iOS stuff. So you can expect a wide range of project on my page!
-
-### Where can you contact me?
+### Contact Info 
 I'm availible on all of these platforms down below ⤵️
 + Twitter: [@DaveWijk](https://twitter.com/davewijk)
 + Discord: [#Dave#5934](https://discord.com/)
