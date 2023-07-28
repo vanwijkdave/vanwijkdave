@@ -1,5 +1,5 @@
 ### Contact Info 
-I'm availible on all of these platforms down below ⤵️
+I'm available on all of these platforms down below ⤵️
 + Twitter: [@DaveWijk](https://twitter.com/davewijk)
 + Discord: [#Dave#5934](https://discord.com/)
 + Email: [vanwijkdave@gmail.com](mailto:vanwijkdave@gmail.com)
